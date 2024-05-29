@@ -220,6 +220,7 @@ html {
 
 .plasma-slide{
     margin: 20px;
+    padding: 5px 10px;
     position: relative;
     width: 800px;
     height: 500px;
@@ -291,6 +292,7 @@ html {
 
 
 .fb-img{
+    width: 50%;
     height: 500px;
     margin-right: 100px;
 }
